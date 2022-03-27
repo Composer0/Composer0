@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 I started coding in January of 2022 and am looking to make a transition into the field of Tech.
-Feel free to message me and connect on [Linkedin]{https://www.linkedin.com/in/orion-palmer-d27/).
+Feel free to message me and connect on [Linkedin]{https://www.linkedin.com/in/orion-palmer/).
 
