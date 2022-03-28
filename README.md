@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-[![website](./img/portfolio.svg)](https://www.orionpalmer.com)
+[![website](./img/portfolio.svg =100x20)](https://www.orionpalmer.com)
 &nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
+[![website](./img/youtube.svg =100x20)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin.svg =100x20)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/hashnode.svg)](https://orionpalmer.hashnode.dev/)
+[![website](./img/hashnode.svg =100x20)](https://orionpalmer.hashnode.dev/)
 &nbsp;&nbsp;
 
 <br />
