@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/portfolio.svg){:height="26px" width="26px"}](https://www.orionpalmer.com)
+[![website](./img/portfolio.svg) <!-- .element height="26px" width="26px" -->](https://www.orionpalmer.com)
 &nbsp;&nbsp;
 [![website](./img/youtube.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 &nbsp;&nbsp;
