@@ -10,8 +10,7 @@
 
 [![website](./img/globe-dark.svg)](https://www.orionpalmer.com)
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
-&nbsp;&nbsp;
+[<img align="left" alt="myyoutube | YouTube" width="25" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
 [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [![website](./img/globe-dark.svg)](https://orionpalmer.hashnode.dev/)
@@ -33,3 +32,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/orionpalmer
+[youtube]: https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ
