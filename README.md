@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/portfolio.svg =100x20)](https://www.orionpalmer.com)
+[![website](./img/portfolio.svg =100x)](https://www.orionpalmer.com)
 &nbsp;&nbsp;
 [![website](./img/youtube.svg =100x20)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 &nbsp;&nbsp;
