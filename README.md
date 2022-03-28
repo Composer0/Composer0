@@ -8,13 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://www.orionpalmer.com)
-&nbsp;&nbsp;
+[<img align="left" alt="portfolio | Portfolio" width="25" src="https://www.svgrepo.com/show/77167/portfolio.svg" />][portfolio]
 [<img align="left" alt="myyoutube | YouTube" width="25" src="https://www.svgrepo.com/show/157839/youtube.svg" />][youtube]
 [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
-[![website](./img/globe-dark.svg)](https://orionpalmer.hashnode.dev/)
-&nbsp;&nbsp;
+[<img align="left" alt="myhashnode | Hashnode" width="25" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" />][hashnode]
 
 <br />
 
@@ -31,5 +29,7 @@
 <br />
 <br />
 
+[portfolio]: https://www.orionpalmer.com
 [linkedin]: https://www.linkedin.com/in/orionpalmer
 [youtube]: https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ
+[hashnode]: https://orionpalmer.hashnode.dev/
