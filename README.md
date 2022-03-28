@@ -12,7 +12,7 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 &nbsp;&nbsp;
-[<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin](https://www.linkedin.com/in/orionpalmer)
+[<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][(https://www.linkedin.com/in/orionpalmer)]
 &nbsp;&nbsp;
 [![website](./img/globe-dark.svg)](https://orionpalmer.hashnode.dev/)
 &nbsp;&nbsp;
