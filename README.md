@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/portfolio.svg) <!-- .element height="26px" width="26px" -->](https://www.orionpalmer.com)
+[![website](./img/glove-light.svg) <!-- .element height="26px" width="26px" -->](https://www.orionpalmer.com)
 &nbsp;&nbsp;
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/hashnode.svg)](https://orionpalmer.hashnode.dev/)
 &nbsp;&nbsp;
