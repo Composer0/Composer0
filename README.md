@@ -11,8 +11,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opalmer1989@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orion-palmer) [![YouTube](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 
-[<img align="left" alt="portfolio | Portfolio" width="25" src="https://www.svgrepo.com/show/77167/portfolio.svg" />][portfolio]
-[<img align="left" alt="myhashnode | Hashnode" width="25" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" />][hashnode]
 
 <br />
 
