@@ -1,5 +1,9 @@
 ### Hi there, I'm Orion - aka [Composer0]
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opalmer1989@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orion-palmer)
+
+👨🏻‍💻 Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
+
 ## I'm a Music Educator transitioning into the World of Software Development!
 - 🌱 I'm currently learning more about JavaScript, React, and TypeScript!
 - 👯 I'm looking to collaborate with other content creators
