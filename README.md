@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orion Palmer aka Composer0</h1>
 <h3 align="center">I am a Software Engineer with a background in Music Education</h3>
 
-##Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
+## Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
 - 🌱 I'm currently learning more about JavaScript, React, and TypeScript!
 - 👯 I'm looking to collaborate with other content creators
 - 💬 2022 Goals: Contribute to Open Source Projects and successfully transition into a full-time Software Development role.
