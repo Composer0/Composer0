@@ -32,15 +32,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://hashnode.com/@composer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@composer0" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/composer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="composer0" height="30" width="40" /></a>
-<a href="https://twitter.com/orionpalmer4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orionpalmer4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/orion palmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orion palmer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/composer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="composer0" height="30" width="40" /></a>
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=composer0&theme=tokyonight&show_icons=true&locale=en" alt="composer0" /></p>
 
