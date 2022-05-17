@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Orion Palmer aka Composer0</h1>
+<h3 align="center">I am a Software Engineer with a background in Music Education</h3>
+
 ### Hi there, I'm Orion - aka [Composer0]
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opalmer1989@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orion-palmer) [![YouTube](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
@@ -32,8 +35,7 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 
-<h1 align="center">Hi 👋, I'm Orion Palmer aka Composer0</h1>
-<h3 align="center">I am a Software Engineer with a background in Music Education</h3>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
