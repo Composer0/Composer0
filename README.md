@@ -38,7 +38,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=composer0&theme=tokyonight&show_icons=true&locale=en" alt="composer0" /></p>
+<p>&nbsp;<img align="center" src="https://orionpalmer.hashnode.dev/" alt="composer0" /></p>
+ 
+ ### Connect with me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opalmer1989@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orion-palmer) [![YouTube](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
 
 <br />
 <br />
