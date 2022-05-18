@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Orion Palmer</h1>
 <h3 align="center">I am a Software Engineer with a background in Music Education</h3>
 
+<div align=center >
+
 ## Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
 - 🌱 I'm currently learning more about JavaScript, React, and TypeScript!
 - 👯 I'm looking to collaborate with other content creators
