@@ -39,7 +39,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://hashnode.com/@composer0" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/16342708?s=400&v=4" alt="@composer0" height="50" width="50" /></a>
+<a href="https://orionpalmer.hashnode.dev/" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/16342708?s=400&v=4" alt="@composer0" height="50" width="50" /></a>
  
 
 <!-- BLOG-POST-LIST:END -->
