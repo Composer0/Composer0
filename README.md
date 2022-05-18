@@ -5,8 +5,11 @@
 
 ## Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
  🌱 I'm currently learning more about JavaScript, React, and TypeScript!
+ <br>
  👯 I'm looking to collaborate with other content creators
+ <br>
  💬 2022 Goals: Contribute to Open Source Projects and successfully transition into a full-time Software Development role.
+ <br>
  ⚡ Fun fact: As my username implies, I love to compose music.
 
 ### Connect with me:
