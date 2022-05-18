@@ -4,6 +4,9 @@
 <div align=center >
 
 ## Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
+ 
+ <br>
+ 
  🌱 I'm currently learning more about JavaScript, React, and TypeScript!
  <br>
  👯 I'm looking to collaborate with other content creators
@@ -12,33 +15,34 @@
  <br>
  ⚡ Fun fact: As my username implies, I love to compose music.
 
-### Connect with me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opalmer1989@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orion-palmer) [![YouTube](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1PLqeZnOUcLVteRSYwk1WQ)
-
 <br />
 
 ### Languages and Tools
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="center" alt="Node.js" width="26px" src="https://pluspng.com/img-png/nodejs-logo-png--375.png" style="padding-right:10px;" />
-<img align="center" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="center" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="center" alt="HTML5" height="30px" src="https://img.shields.io/badge/-HTML-orangered" style="padding-right:10px;" />
+<img align="center" alt="CSS3" height="30px" src="https://img.shields.io/badge/-CSS-blue" style="padding-right:10px;" />
+<img align="center" alt="JavaScript" height="30px" src="https://img.shields.io/badge/-JavaScript-yellow" style="padding-right:10px;" />
+ <br>
+ <br>
+<img align="center" alt="Bootstrap" height="30px" src="https://img.shields.io/badge/-Bootstrap-purple" style="padding-right:10px;" />
+<img align="center" alt="jQuery" height="30px" src="https://img.shields.io/badge/-jQuery-navy" style="padding-right:10px;" />
+<img align="center" alt="Node.js" height="30px" src="https://img.shields.io/badge/-Node.js-lightgreen" style="padding-right:10px;" />
+ <br>
+ <br>
+<img align="center" alt="Git" height="30px" src="https://img.shields.io/badge/-Git-lightblue" style="padding-right:10px;" />
+<img align="center" alt="GitHub" height="30px" src="https://img.shields.io/badge/-GitHub-black" style="padding-right:10px;" />
+<img align="center" alt="Terminal" height="30px" src="https://img.shields.io/badge/-Terminal-pink" />
+<img align="center" alt="Visual Studio Code" height="30px" src="https://img.shields.io/badge/-VSCode-blue" style="padding-right:10px;" />
 
 
 <br />
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://hashnode.com/@composer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@composer0" height="30" width="40" /></a>
+<a href="https://hashnode.com/@composer0" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/16342708?s=400&v=4" alt="@composer0" height="50" width="50" /></a>
+ 
+
 <!-- BLOG-POST-LIST:END -->
-
-
-<p>&nbsp;<img align="center" src="https://orionpalmer.hashnode.dev/" alt="composer0" /></p>
  
  ### Connect with me:
 
