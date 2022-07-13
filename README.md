@@ -18,21 +18,15 @@
 <br />
 
 ### Languages and Tools
+ 
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ <br>
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+ 
 
-<img align="center" alt="HTML5" height="30px" src="https://img.shields.io/badge/-HTML-orangered" style="padding-right:10px;" />
-<img align="center" alt="CSS3" height="30px" src="https://img.shields.io/badge/-CSS-blue" style="padding-right:10px;" />
-<img align="center" alt="JavaScript" height="30px" src="https://img.shields.io/badge/-JavaScript-yellow" style="padding-right:10px;" />
- <br>
- <br>
+
 <img align="center" alt="Bootstrap" height="30px" src="https://img.shields.io/badge/-Bootstrap-purple" style="padding-right:10px;" />
 <img align="center" alt="jQuery" height="30px" src="https://img.shields.io/badge/-jQuery-navy" style="padding-right:10px;" />
-<img align="center" alt="Node.js" height="30px" src="https://img.shields.io/badge/-Node.js-lightgreen" style="padding-right:10px;" />
- <br>
- <br>
-<img align="center" alt="Git" height="30px" src="https://img.shields.io/badge/-Git-lightblue" style="padding-right:10px;" />
-<img align="center" alt="GitHub" height="30px" src="https://img.shields.io/badge/-GitHub-black" style="padding-right:10px;" />
-<img align="center" alt="Terminal" height="30px" src="https://img.shields.io/badge/-Terminal-pink" />
-<img align="center" alt="Visual Studio Code" height="30px" src="https://img.shields.io/badge/-VSCode-blue" style="padding-right:10px;" />
 
 
 <br />
