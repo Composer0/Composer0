@@ -7,7 +7,7 @@
  
  <br>
  
- 🌱 I'm currently learning more about JavaScript, React, and TypeScript!
+ 🌱 I'm currently learning more about SQL and NoSQL databases and how to incorporate them into my projects.
  <br>
  👯 I'm looking to collaborate with other content creators
  <br>
