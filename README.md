@@ -1,5 +1,5 @@
 <img align="center" alt="HTML5" width="1000px" src="OrionHeroBanner.png" style="padding-right:10px;" />
-<h3 align="center">I am a Software Engineer with a background in Music Education</h3>
+<h3 align="center">I am a Software Engineer with experience in Fullstack Web Development</h3>
 
 <div align=center >
 
