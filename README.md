@@ -19,15 +19,19 @@
 
 ### Languages and Tools
  
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) 
+![jQuery](https://img.shields.io/badge/-jQuery-navy?style=for-the-badge&logo=jQuery) 
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  <br>
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
- 
-
-
-<img align="center" alt="Bootstrap" height="30px" src="https://img.shields.io/badge/-Bootstrap-purple" style="padding-right:10px;" />
-<img align="center" alt="jQuery" height="30px" src="https://img.shields.io/badge/-jQuery-navy" style="padding-right:10px;" />
-
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+ ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/-Mongo_DB-brightgreen?style=for-the-badge&logo=MongoDB) 
+ ![Mongoose](https://img.shields.io/badge/-Mongoose-brown?style=for-the-badge&logo=Mongoose) 
+ ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) 
 
 <br />
 
