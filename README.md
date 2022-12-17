@@ -7,7 +7,7 @@
  
  <br>
  
- 🌱 I'm currently learning more about SQL and NoSQL databases and how to incorporate them into my projects.
+ 🌱 I'm currently learning more about the MVC design pattern with C#, ASP.Net, and PostGreSQL.
  <br>
  👯 I'm looking to collaborate with other content creators
  <br>
