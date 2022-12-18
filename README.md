@@ -7,7 +7,7 @@
  
  <br>
  
- 🌱 I'm currently learning more about the MVC design pattern with C#, ASP.Net, and PostGreSQL.
+ 🌱 I'm currently learning more about the MVC design pattern with C#, ASP.Net, and PostgreSQL.
  <br>
  👯 I'm looking to collaborate with other content creators
  <br>
