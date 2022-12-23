@@ -21,6 +21,7 @@
  
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) 
+![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=CSharp)
 ![jQuery](https://img.shields.io/badge/-jQuery-navy?style=for-the-badge&logo=jQuery) 
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
@@ -29,7 +30,8 @@
  <br>
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
- ![MongoDB](https://img.shields.io/badge/-Mongo_DB-brightgreen?style=for-the-badge&logo=MongoDB) 
+ ![MongoDB](https://img.shields.io/badge/-Mongo_DB-brightgreen?style=for-the-badge&logo=MongoDB)
+ ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=for-the-badge&logo=ASPNET)
  ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) 
 
 <br />
