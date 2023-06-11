@@ -1,5 +1,5 @@
 <img align="center" alt="HTML5" width="1000px" src="Fullstack Developer (2).png" style="padding-right:10px;" />
-<h3 align="center">I am a Software Engineer with experience in Fullstack Web Development</h3>
+<h3 align="center">Software Engineer with experience in Fullstack Web Development</h3>
 
 <div align=center >
 
@@ -7,11 +7,11 @@
  
  <br>
  
- 🌱 I'm currently learning more about the MVC design pattern with C#, ASP.Net, and PostgreSQL.
+ 🌱 I'm currently learning more about JavaScript Frameworks which include but are not limited to Vue, React, and Angular.
  <br>
  👯 I'm looking to collaborate with other content creators
  <br>
- 💬 2022 Goals: Contribute to Open Source Projects and successfully transition into a full-time Software Development role.
+ 💬 2023 Goals: Contribute to Open Source Projects and transfer my knowledge and experience to building full-fledged websites and applications
  <br>
  ⚡ Fun fact: As my username implies, I love to compose music.
 
