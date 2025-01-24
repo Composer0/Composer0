@@ -1,24 +1,25 @@
 <img align="center" alt="HTML5" width="1000px" src="Fullstack Developer (2).png" style="padding-right:10px;" />
 <h3 align="center">Software Engineer with experience in Fullstack Web Development</h3>
 
-<div align=center >
+<div align=flex-start >
 
 ## Check out my portfolio here: [Orion Palmer](https://www.orionpalmer.com)
  
  <br>
  
- 🌱 I'm currently learning more about JavaScript Frameworks which include but are not limited to Vue, React, and Angular.
+ 🌱 I'm currently learning more about TypeScript, Web Accessibility, and Design.
  <br>
- 👯 I'm looking to collaborate with other content creators
+ 👯 I'm looking to collaborate with other creators
  <br>
- 💬 2023 Goals: Contribute to Open Source Projects and transfer my knowledge and experience to building full-fledged websites and applications
+ 💬 2025 Goals: Continue aiding developers and creating efficient and reliable business solutions.
  <br>
  ⚡ Fun fact: As my username implies, I love to compose music.
 
 <br />
 
 ### Languages and Tools
- 
+
+![TypeScript](https://img.shields.io/badge/-typescript-ac123b?&style=for-the-badge&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=CSharp)
