@@ -34,7 +34,7 @@
  ![MongoDB](https://img.shields.io/badge/-Mongo_DB-brightgreen?style=for-the-badge&logo=MongoDB)
  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=for-the-badge&logo=ASPNET)
  ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) 
- ![Azure](https://img.shields.io/badge/Azure?style-for-the-badge&logo=Azure)
+ ![Azure](https://img.shields.io/badge/azure-devops?style-for-the-badge&logo=Azure)
 
 <br />
 
