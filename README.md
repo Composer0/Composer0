@@ -30,10 +30,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  <br>
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=express&logoColor=white) 
  ![MongoDB](https://img.shields.io/badge/-Mongo_DB-brightgreen?style=for-the-badge&logo=MongoDB)
  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=for-the-badge&logo=ASPNET)
  ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) 
+ ![Azure](https://img.shields.io/badge/Azure?style-for-the-badge&logo=Azure)
 
 <br />
 
