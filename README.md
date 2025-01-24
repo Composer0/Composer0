@@ -20,7 +20,7 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) 
 ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=CSharp)
-![PHP](https://img.shields.io/badge/PHP?style=for-the-badge&logo=PHP)
+![PHP](https://img.shields.io/badge/-php-B12F12?style=for-the-badge&logo=php)
 <br>
 ![TypeScript](https://img.shields.io/badge/-typescript-ac123b?&style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) 
