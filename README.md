@@ -9,7 +9,7 @@
  <br>
  👯 I'm looking to collaborate with other creators
  <br>
- 💬 2025 Goals: Continue aiding developers and creating efficient and reliable business solutions.
+ 💬 2026 Goals: Continue aiding developers and creating efficient and reliable business solutions.
  <br>
  ⚡ Fun fact: As my username implies, I love to compose music.
 
