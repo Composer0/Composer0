@@ -1,4 +1,4 @@
-<img align="center" alt="HTML5" width="1000px" src="Orion Palmer Hero.png" style="padding-right:10px;" />
+<img align="center" alt="HTML5" width="1000px" src="img/OrionPalmerSeniorDev.png" style="padding-right:10px;" />
 <h3 align="center">Software Developer with experience in Fullstack Web Development</h3>
 
 <div align=flex-start >
